@@ -1,2 +1,2 @@
-# Java-ci-pipeline
- Actividad #1 de Algoritmos y Estructuras de datos II 
+# JAVA-CI-PIPELINE
+ Actividad #1 del Curso Algoritmos y Estructuras de Datos
